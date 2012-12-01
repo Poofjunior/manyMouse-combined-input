@@ -1,0 +1,1 @@
+This example shows how to use ofxManyMouse to figure out the orientation and position of two mouse inputs. Also the orientation angle corrects the mouse position input (i.e. if the mouse is oriented 90 degrees, left becomes up and right becomes down etc.)
